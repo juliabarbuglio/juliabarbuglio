@@ -1,45 +1,53 @@
-<br clear="both">
-
-<h2 align="center">👋 Olá! Bom tê-lo/la por aqui! <br>Prazer, sou a Júlia ✨</h2>
-
-###
-
-<div align="center">
-  <h3>Tecnologias & Linguagens</h3>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-</div>
+<h2 align="center">
+Olá! Bom tê-lo/la por aqui! <br>
+Prazer, sou a Júlia.
+</h2>
 
 <div align="center">
-  <h3>Banco de Dados & Back-end</h3>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="autocad logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" />
 </div>
-
-<div align="center">
-  <h3>Ferramentas & Plataformas</h3>
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="PyCharm" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="40" alt="AutoCAD" />
-</div>
-
-<div align="center">
-  <h3>Sistemas Operacionais & Nuvem</h3>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian" />
-</div>
-
-###
 
 <br clear="both">
 
@@ -54,8 +62,18 @@
   <a href="mailto:barbuglio@hotmail.com">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook" />
   </a>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliabarbuglio/juliabarbuglio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliabarbuglio/juliabarbuglio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juliabarbuglio/juliabarbuglio/output/pacman-contribution-graph.svg">
+</picture>
+
  
 </div>
 
-<br clear="both">
+
+
 
