@@ -52,7 +52,7 @@ Prazer, sou a Júlia.
 <br clear="both">
 
 <div align="center">
-  <h3>Me acompanhe nas redes</h3>
+  <h3>Me acompanhe! 🖥️</h3>
   <a href="https://www.linkedin.com/in/juliabarbuglio">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
@@ -63,13 +63,6 @@ Prazer, sou a Júlia.
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook" />
   </a>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliabarbuglio/juliabarbuglio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliabarbuglio/juliabarbuglio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juliabarbuglio/juliabarbuglio/output/pacman-contribution-graph.svg">
-</picture>
 
  
 </div>
